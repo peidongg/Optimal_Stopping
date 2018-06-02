@@ -1,0 +1,4 @@
+F:\JET\apps\CLion\ch-0\173.4127.32\bin\cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" F:\backup\Task\study\docus\Optimal_Stopping
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/backup/Task/study/docus/Optimal_Stopping/cmake-build-debug
